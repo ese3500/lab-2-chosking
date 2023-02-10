@@ -1,2 +1,4 @@
 # lab2_morse_skeleton
-Skeleton code that's imported for Lab 2: Morse
+
+main.c - contains code for parts a and c (by changing the method uncommented in main)
+partb.c - contains code for part b
